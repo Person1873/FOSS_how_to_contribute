@@ -2,4 +2,5 @@
 in light of recent vulnerabilities and xkcd #2347 there's a need for a central hub of important yet under supported FOSS projects to help users donate and contribute to the best places
 
 ##| Project Name | Description | Project Page | Donate Link |
+| ---------- | ---------- | ---------- | ----------|
 | test | test | https://test.com/ | https://test.com/ |
