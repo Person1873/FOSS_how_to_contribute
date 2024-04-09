@@ -3,6 +3,8 @@
 
 in light of recent vulnerabilities and xkcd [#2347](https://www.explainxkcd.com/wiki/images/d/d7/dependency.png) there's a need for a central hub of important yet under supported FOSS projects to help users donate and contribute to the best places
 
+I've generated this list below with the help of Chat-GPT, please report any errors found with either an issue or pull request.
+
 | Project Name        | Description                                          | Project Page                                  | Donation Link                               | Category              |
 |---------------------|------------------------------------------------------|-----------------------------------------------|---------------------------------------------|-----------------------|
 | alsa-lib            | The user-space library for the Advanced Linux Sound Architecture. | [alsa-lib](https://www.alsa-project.org/)    | [Donate](https://www.alsa-project.org/main/index.php/Donation) | Audio Library        |
