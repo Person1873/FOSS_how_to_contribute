@@ -1,0 +1,42 @@
+name: Listing Request
+description: Request for a FOSS project to be listed.
+title: "[Request]: "
+labels: []
+body:
+	- type: input
+	id: name
+	attributes: 
+		label: Project Name
+		description: The name of the project to be listed.
+	validations:
+		required: true
+	- type: textarea
+	id: description
+	attributes:
+		label: Project Description
+		description: The description of the project.
+	validations:
+		required: true
+	- type: input
+	id: license
+	attributes:
+		label: Project License
+		description: The license of the project.
+	validations:
+		required: false
+	- type: input
+	id: url
+	attributes:
+		label: Project URL
+		description: The URL to the project's homepage.
+	validations:
+		required: true
+	- type: input
+	id: donation-url
+	attributes:
+		label: Donation URL
+		description: The URL to the project's donation link.
+		placeholder: https://example.com/donate
+	validations:
+		required: true
+	
