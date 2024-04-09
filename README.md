@@ -1,0 +1,2 @@
+# FOSS_how_to_contribute
+in light of recent vulnerabilities and xkcd #2347 there's a need for a central hub of important yet under supported FOSS projects to help users donate and contribute to the best places
